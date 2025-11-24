@@ -70,21 +70,6 @@ The project encourages testers to document their findings using a **standardized
 - Categorizing defects by severity and priority
 - Tracking defect status and resolution
 
----
-
-## Target Audience
-
-This project is designed for:
-
-- **Manual Testers** looking to enhance their testing skills with real-world scenarios
-- **QA Engineers** seeking structured test documentation for e-commerce testing
-- **Students & Beginners** learning manual testing concepts and practices
-- **Testing Teams** requiring a ready-to-use test suite for OpenCart
-- **Quality Assurance Professionals** conducting thorough functional testing
-- **Interview Candidates** building their testing portfolio
-
----
-
 ## Getting Started
 
 ### Prerequisites
